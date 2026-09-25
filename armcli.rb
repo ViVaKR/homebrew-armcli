@@ -1,9 +1,9 @@
 class Armcli < Formula
   desc "ARM64 Assembly Template Generator CLI for Students"
   homepage "https://github.com/ViVaKR/armcli"
-  url "https://github.com/ViVaKR/armcli/releases/download/v0.3.6/armcli-v0.3.6-osx-arm64.tar.gz"
-  sha256 "bfd3c902208eb55ccb1394399a2bddc31542f1091c2a9805cfe1fbec8478466a"
-  version "0.3.6"
+  url "https://github.com/ViVaKR/armcli/releases/download/v0.3.7/armcli-v0.3.7-osx-arm64.tar.gz"
+  sha256 "dc6869d75aacd0bf7ebc5f8411e80fb91876377ac65ebab37baaf727a93631e7"
+  version "0.3.7"
 
   def install
     bin.install "armcli"
